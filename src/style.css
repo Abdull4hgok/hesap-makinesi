@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.App .calculator {
+  margin-left: 42.5%;
+  margin-top: 25px;
+}
+.App .calculator button {
+  width: 50px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.App .calculator .card {
+  width: 205px;
+  height: 65px;
+  display: flex;
+  margin-left: -5px;
+}/*# sourceMappingURL=style.css.map */

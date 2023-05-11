@@ -1,0 +1,20 @@
+.App {
+    text-align: center;
+    .calculator{
+        margin-left: 42.5%;
+        margin-top: 25px;
+        button{
+            width: 50px;
+            margin-left: 5px;
+            margin-top: 5px;
+        }
+        
+        .card{
+            width: 205px;
+            height: 65px;
+            display: flex;
+            margin-left: -5px;
+        }
+    }
+    
+  }
